@@ -1,6 +1,6 @@
 # Twitter-clone
 A sample web page of Twitter Clone Let’s make simple Twitter. Users can post tweets and see everyone’s tweets. To make the project simple, we do not have a sign/login function. So there are not user accounts and follow function. You can challenge after you finish the course.
-Check it out! [LIVE DEMO here!!](https://twitter-clone-george.herokuapp.com/)
+Check it out! [LIVE DEMO here!!](https://twitter-clone.grangel13.repl.co)
 
 # Technologies Used
 * HTML
